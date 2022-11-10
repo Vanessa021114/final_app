@@ -1,18 +1,18 @@
 # change the followings to match your Github username and repo name
 baseurl: "/tailpages" # the name of your github repo
-url: "https://github.com/Vanessa021114" # the url of your github pages
+url: "https://vanessa021114.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Vanessa & Amanda's website"
+description: This is the website for Vanessa and Amanda
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Vanessa & Amanda
-author-bio: Creator of Bitcoin  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author-bio: Students  # change to false to hide
+author-image: WechatIMG16539.jpeg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
@@ -20,17 +20,17 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
+- text: Skills
+  permalink: skills
 - text: Blog
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: https://twitter.com/home
+facebook: https://www.facebook.com/profile.php?id=100087379552608
+instagram: https://www.instagram.com/vanessahu021114/
+github: https://github.com/Vanessa021114
+linkedin: https://www.linkedin.cn/incareer/in/ACoAAD8XATwBq0G_oegnz7r7SBPxx2-rqi7ixQU
 medium: false
 google-scholar: false
 email: false
