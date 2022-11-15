@@ -4,7 +4,7 @@ title: Project
 permalink: project
 ---
 
-> We designed our data app basing on the [stream game dataset].(https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and) This dataset includes the name of the stream games, the published date of games and the genres of the games.
+> We designed our data app basing on the [stream game dataset](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and). This dataset includes the name of the stream games, the published date of games and the genres of the games.
 
 ## Data app Image
 
