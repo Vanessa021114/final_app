@@ -18,4 +18,4 @@ Finally, based on the information obtained, the user can conclude what kind of g
 
 ## References
 
-We got some references from [harrywang](http://harrywang.me/) to biuld our website.
+We got some references from [Kaggle](www.Kaggle.com) to biuld our website.
